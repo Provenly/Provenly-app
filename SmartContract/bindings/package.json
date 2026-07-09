@@ -1,0 +1,10 @@
+{
+  "name": "@stellar-ecosystem/earn-quest-contract",
+  "version": "0.1.0",
+  "description": "Generated TypeScript bindings for the Provenly quest contract",
+  "main": "index.js",
+  "types": "index.d.ts",
+  "dependencies": {
+    "@stellar/stellar-sdk": "^12.0.0"
+  }
+}
